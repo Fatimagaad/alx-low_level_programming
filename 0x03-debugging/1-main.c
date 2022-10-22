@@ -5,7 +5,7 @@
  * Return: 0
  */
 
-int main(void)
+void postitive_or_negative( int i)
 {
 	int i;
 
